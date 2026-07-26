@@ -10,5 +10,5 @@ export enum AffixRespondEvents {
   touchmove = 'touchmove',
   touchend = 'touchend',
   pageshow = 'pageshow',
-  load = 'LOAD'
+  load = 'load'
 }
